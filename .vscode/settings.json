@@ -5,7 +5,7 @@
       "overrideName": true,
       "icon": "chat-sparkle",
       "path": "bash",
-      "args": ["-lc", "gemini -i --yolo"]
+      "args": ["-lc", "gemini --yolo"]
     }
   }
 }
